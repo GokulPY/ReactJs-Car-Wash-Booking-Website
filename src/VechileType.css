@@ -1,0 +1,79 @@
+.boxx1 {
+    background-color: white;
+    height: 300px;
+    width: 1200px;
+    margin-left: 300px;
+    margin-top: 150px;
+}
+
+.boxx1 > h3 {
+    font-family: sans-serif;
+    margin-left: 20px;
+}
+
+.l1 {
+    font-family: sans-serif;
+    margin-right: 20px;
+}
+
+.l2 {
+    font-family: sans-serif;
+    margin-left: 16px;
+}
+
+.v1i {
+    height: 25px;
+    width: 850px;
+    margin-left: 25px;
+}
+
+.v2i {
+    border: 1px rgb(107, 107, 107) solid;
+    height: 25px;
+    width: 851px;
+    background-color: white;
+    margin-left: 25px;
+    padding-top: 4PX;
+    padding-left: 6PX;
+}
+
+.vb1 {
+    background-color: #5ccbff;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.vb2 {
+    background-color: #ff5c5c;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    margin-left: 20px;
+}
+
+.b2b {
+    display: flex;
+    flex-direction: row;
+    height: 35px;
+    width: 170px;
+    padding: 10px;
+    justify-content: space-between;
+    margin-right: 565px;
+}
+
+.b2b, i {
+    color: white;
+    display: flex;
+    margin-left: 20px;
+}

@@ -1,0 +1,81 @@
+.bgg {
+    background-color: #2c3b48;
+    height: 721px;
+    width: 1536px;
+}
+
+.loginpage {
+    background-color: white;
+    height: 385px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 125px;
+    margin-left: 550px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.limg {
+    margin-top: 50px;
+    height: 50px;
+    width: 275px;
+}
+
+.lh4 {
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 35px;
+}
+
+.linput1 {
+    height: 35px;
+    width: 300px;
+    font-family: sans-serif;
+    padding-left: 10px;
+    border: 1px #aca6a6 solid;
+}
+
+.linput2 {
+    margin-top: 15px;
+    height: 35px;
+    width: 300px;
+    font-family: sans-serif;
+    padding-left: 10px;
+    border: 1px #aca6a6 solid;
+}
+
+.loginbutton {
+    margin-top: 13px;
+    height: 40px;
+    width: 315px;
+    font-family: sans-serif;
+    font-weight: 500;
+    background-color: #03a9f3;
+    color: white;
+    font-size: medium;
+    border: none;
+}
+
+.lhr {
+    border: 0.2px #c9c3c3 solid;
+    padding-left: 315px;
+    margin-top: 20px;
+}
+
+.lh5 {
+    font-family: sans-serif;
+    color: #7d7d7d;
+    font-weight: lighter;
+    font-size: smaller;
+}

@@ -1,0 +1,16 @@
+.outer-con {
+    border: 1px soild;
+    height: 5px;
+    display: flex;
+    margin-top: 80px;
+    margin-left: 20px;
+  }
+  
+  .inner-con {
+    height: 100%;
+    background-color: red;
+    width: 50%;
+    text-align: center;
+    color: white;
+    width: var(--width);
+  }

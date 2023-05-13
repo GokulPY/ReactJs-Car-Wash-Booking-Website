@@ -1,0 +1,36 @@
+.sbox {
+    background-color: white;
+    height: 300px;
+    width: 1200px;
+    position: relative;
+    margin-left: 300px;
+    margin-top: 150px;
+}
+
+.sh3 {
+    font-family: sans-serif;
+    margin-left: 20px;
+    display: flex;
+    position: absolute;
+    margin-top: 70px;
+}
+
+.ssh5 {
+    font-family: sans-serif;
+    font-weight: lighter;
+    display: flex;
+    align-items: center;
+    margin-left: 23px;
+    height: 35px;
+    width: 100px;
+    background-color: #03a9f3;
+    position: absolute;
+    cursor: pointer;
+    justify-content: center;
+    border: none;
+    color: white;
+}
+
+.tsl {
+    margin-top: 110px;
+}
